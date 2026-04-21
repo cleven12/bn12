@@ -1,20 +1,6 @@
 # Student Performance Prediction System
 ## Using Data Analytics and Machine Learning
 
-**Institution:** Mwenge Catholic University (MWECAU)  
-**Department:** Natural Sciences and Information Technology  
-**Programme:** Bachelor of Science in Computer Science  
-**Year:** 2026
-
-**Team Members**
-| Name | Registration Number |
-|------|-------------------|
-| Laurent Boniphace | T/DEG/2023/1445 |
-| Christina Samwel | T/DEG/2023/0919 |
-| Elizabeth Michael | T/DEG/2023/0818 |
-
----
-
 ## 1. Purpose
 
 This system enables academic staff at MWECAU to predict student academic risk early — before final examinations — so that timely interventions can be made. It analyses Continuous Assessment (CA) scores, attendance, and demographic data using machine learning to classify each student as **Safe**, **At-Risk**, or **High Risk**.
@@ -215,7 +201,6 @@ student_perf_prdct/
 | Frontend | Bootstrap 5 + Chart.js (CDN) |
 | Templates | Jinja2 |
 
-All technologies are **free and open-source**. No paid licences required.
 
 ---
 
@@ -251,9 +236,12 @@ python app.py
 
 ---
 
-## 11. Ethical Considerations
+<!-- ## 11. Ethical Considerations
 
 - Student data is stored with **encrypted passwords** and **access control** (login required)
 - Registration numbers are used instead of personal names in ML features
 - Predictions are **advisory only** — final decisions remain with academic staff
 - Data handling complies with institutional privacy policies and informed consent requirements
+```
+
+-->
